@@ -11,6 +11,7 @@
         "outDir": "dist"
     },
     "files": [
-        "./ts/csinterface-ts.ts"
+        "./ts/csinterface-ts.ts",
+		"./ts/index.ts"
     ]
 }
