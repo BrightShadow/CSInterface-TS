@@ -1,5 +1,7 @@
 # Custom implementation of Adobe extensions CSInterface library, in Typescript
 
+[![NPM](https://nodei.co/npm/csinterface-ts.png)](https://www.npmjs.com/package/csinterface-ts)
+
 The implementation has 1:1 functionality as [`CSInterface.js`](https://github.com/Adobe-CEP/CEP-Resources/blob/master/CEP_7.x/CSInterface.js)
 which can be found [`here`](https://github.com/Adobe-CEP/CEP-Resources/tree/master/CEP_7.x).
 
