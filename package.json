@@ -2,8 +2,8 @@
   "name": "csinterface-ts",
   "version": "1.0.0",
   "description": "Adobe extensions CSInterface v7.0 library implementation in typescript.",
-  "main": "js/csinterface.js",
-  "typings": "js/csinterface",
+  "main": "dist/csinterface-ts.js",
+  "typings": "dist/csinterface-ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,6 +20,12 @@
 	"plugin"
   ],
   "author": "pporombka@gmail.com",
+   "maintainers": [
+    {
+      "name": "Pawel Porombka",
+      "email": "pporombka@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/BrightShadow/CSInterface-TS/issues"

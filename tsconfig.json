@@ -8,9 +8,9 @@
         "preserveConstEnums": true,
         "declaration": true,
         "suppressImplicitAnyIndexErrors": true,
-        "outDir": "js"
+        "outDir": "dist"
     },
     "files": [
-        "./ts/csinterface.ts"
+        "./ts/csinterface-ts.ts"
     ]
 }

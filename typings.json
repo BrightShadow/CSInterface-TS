@@ -1,0 +1,4 @@
+{
+  "name": "csinterface-ts",
+  "main": "dist/csinterface.d.ts"
+}
