@@ -1,9 +1,9 @@
-# Adobe extnesions CSInterface library implementation in Typescript
+# Custom implementation of Adobe extensions CSInterface library, in Typescript
 
 The implementation has 1:1 functionality as [`CSInterface.js`](https://github.com/Adobe-CEP/CEP-Resources/blob/master/CEP_7.x/CSInterface.js)
 which can be found [`here`](https://github.com/Adobe-CEP/CEP-Resources/tree/master/CEP_7.x).
 
-The implementation is fully documented - the documentation is copy/pasted from original .js file.
+The implementation is fully documented - the documentation is based on original Adobe documentation from .js file.
 
 ## Usage
 
