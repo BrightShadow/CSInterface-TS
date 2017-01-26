@@ -38,7 +38,7 @@ npm install csinterface-ts
                   
                   ....
                   
-                  "csinterface-ts",
+                  "csinterface-ts",  // <-- add it here
                   
                   ....
               ]
