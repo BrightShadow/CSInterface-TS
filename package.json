@@ -1,0 +1,28 @@
+{
+  "name": "csinterface-ts",
+  "version": "1.0.0",
+  "description": "Adobe extensions CSInterface v7.0 library implementation in typescript.",
+  "main": "js/csinterface.js",
+  "typings": "js/csinterface",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrightShadow/CSInterface-TS.git"
+  },
+  "keywords": [
+    "typescript",
+    "csinterface",
+	"adobe",
+	"cep",
+	"extension",
+	"plugin"
+  ],
+  "author": "pporombka@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrightShadow/CSInterface-TS/issues"
+  },
+  "homepage": "https://github.com/BrightShadow/CSInterface-TS#readme"
+}
