@@ -1,4 +1,4 @@
 {
   "name": "csinterface-ts",
-  "main": "dist/csinterface.d.ts"
+  "main": "dist/csinterface-ts.d.ts"
 }
