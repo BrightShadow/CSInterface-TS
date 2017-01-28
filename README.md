@@ -1,6 +1,8 @@
 # Custom implementation of Adobe extensions CSInterface library, in Typescript
 
-[![NPM](https://nodei.co/npm/csinterface-ts.png)](https://www.npmjs.com/package/csinterface-ts)
+[![CSInterface-TS](https://github.com/BrightShadow/CSInterface-TS/blob/master/docs/npm-logo.png)](https://www.npmjs.com/package/csinterface-ts)
+[![TypeScript](https://github.com/BrightShadow/CSInterface-TS/blob/master/docs/TS-logo.png)](https://www.typescriptlang.org/)
+[![Adobe Creative Cloud](https://github.com/BrightShadow/CSInterface-TS/blob/master/docs/adobe-cc-logo.png)](http://www.adobe.com/creativecloud.html)
 
 The implementation has 1:1 functionality as [`CSInterface.js`](https://github.com/Adobe-CEP/CEP-Resources/blob/master/CEP_7.x/CSInterface.js)
 which can be found [`here`](https://github.com/Adobe-CEP/CEP-Resources/tree/master/CEP_7.x).
