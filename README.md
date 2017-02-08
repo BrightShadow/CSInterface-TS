@@ -15,16 +15,30 @@ The implementation is fully documented - the documentation is based on original 
 
 ## Usage
 
-Just install [my NPM package](https://www.npmjs.com/package/csinterface-ts):
+### With NPM
+
+Just install [NPM package](https://www.npmjs.com/package/csinterface-ts) using `npm` CLI:
 ```bash
-npm install csinterface-ts
+npm install csinterface-ts --save
 ```
+
+### With Bower
+Don't have `bower` command available in bash? Install it using command:
+```bash
+npm install -g bower
+```
+
+Then install using bower CLI
+```bash
+bower install csinterface-ts --save
+```
+
 
 ### When using with Aurelia
 
 1. Install package first
 ```bash
-npm install csinterface-ts
+npm install csinterface-ts --save
 ```
 
 2. Add package to your bundles aurelia configuration in your root directory, so that you will get this loaded when your plugin/extension will be deployed. In this case edit `aurelia_project/aurelia.json`. Add one line in the section `"bundles"`, in subsection `"name": "vendor-bundle.js"` inside a subsection `"dependencies"`:
