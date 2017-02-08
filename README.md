@@ -3,6 +3,7 @@
 Related pages, and additional resource where you can find more information about Adobe HTML extensions.
 
 [![CSInterface-TS](https://github.com/BrightShadow/CSInterface-TS/blob/master/docs/npm-logo.png)](https://www.npmjs.com/package/csinterface-ts)
+[![CSInterface-TS](https://github.com/BrightShadow/CSInterface-TS/blob/master/docs/bower-logo.png)](https://bower.io)
 [![TypeScript](https://github.com/BrightShadow/CSInterface-TS/blob/master/docs/TS-logo.png)](https://www.typescriptlang.org/)
 [![Adobe Creative Cloud](https://github.com/BrightShadow/CSInterface-TS/blob/master/docs/adobe-cc-logo.png)](http://www.adobe.com/creativecloud.html)
 [![CEP Team](https://github.com/BrightShadow/CSInterface-TS/blob/master/docs/CEP-logo.png)](https://github.com/Adobe-CEP)
