@@ -1,0 +1,25 @@
+{
+  "name": "csinterface-ts",
+  "description": "Custom implementation of Adobe extensions CSInterface library v7.0, in Typescript.",
+  "main": "dist/csinterface-ts.js",
+  "authors": [
+    "brightshadow86@gmail.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "csinterface",
+    "adobe",
+    "cep",
+    "extension",
+    "plugin"
+  ],
+  "homepage": "https://github.com/BrightShadow/CSInterface-TS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
