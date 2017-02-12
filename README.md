@@ -1,4 +1,5 @@
-# Custom implementation of Adobe extensions CSInterface library, in Typescript
+# Implementation of Adobe extensions CSInterface library, in Typescript
+The implementation is identical to the original one from CSInterface written in JavaScript.
 
 Related pages, and additional resource where you can find more information about Adobe HTML extensions.
 
