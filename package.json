@@ -1,7 +1,7 @@
 {
   "name": "csinterface-ts",
   "version": "1.0.3",
-  "description": "Custom implementation of Adobe extensions CSInterface library v7.x, in Typescript.",
+  "description": "Implementation of Adobe extensions CSInterface library v7.x, in Typescript (identical to original).",
   "main": "dist/csinterface-ts.js",
   "typings": "dist/csinterface-ts",
   "scripts": {
