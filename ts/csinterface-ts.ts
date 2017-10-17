@@ -404,7 +404,7 @@ export class CSInterface {
      * @param handler   The function to be called when scale factor is changed.
      *
      */
-    setScaleFactorChangedHandler(handler) {
+    setScaleFactorChangedHandler(handler: () => void) {
         (<any>window).__adobe_cep__.setScaleFactorChangedHandler(handler);
     };
 
@@ -657,7 +657,7 @@ export class CSInterface {
      *
      * @param callback the callback function
      */
-    registerInvalidCertificateCallback(callback): any {
+    registerInvalidCertificateCallback(callback: () => void): any {
         return (<any>window).__adobe_cep__.registerInvalidCertificateCallback(callback);
     };
 
@@ -900,7 +900,7 @@ export class UIColor {
      * The color type, 1 for "rgb" and 2 for "gradient".
      * The supplied color object must correspond to this type.
      */
-    public type: number;
+    public type?: number;
 
     /**
      * The anti-alias level constant.
@@ -910,7 +910,7 @@ export class UIColor {
     /**
      * A \c #RGBColor or \c #GradientColor object containing specific color information.
      */
-    public color: RGBColor | GradientColor;
+    public color?: RGBColor | GradientColor;
 }
 
 /**
